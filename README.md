@@ -1,4 +1,9 @@
 ## Hi there 👋
+🌱 I’m currently learning to code on Boot.dev. 
+Here's my profile to log my personal growth
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/ba8c537c-f2c2-4b48-a60b-22ee4d91587d/thumbnail" >
+</p>
 
 <!--
 **roysatwik-code/roysatwik-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
